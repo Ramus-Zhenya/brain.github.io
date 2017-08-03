@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.885409in" height="0.885409in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 885 885"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#612C75}
+    .fil1 {fill:white}
+    .fil3 {fill:#3E2723;fill-opacity:0.101961}
+    .fil2 {fill:white;fill-opacity:0.400000}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1108314160">
+   <rect class="fil0" x="14" y="11" width="866" height="868" rx="139" ry="140"/>
+   <g>
+    <path class="fil1" d="M348 419l0 59 98 0c-4,26 -29,75 -98,75 -59,0 -108,-49 -108,-109 0,-61 49,-110 108,-110 34,0 56,14 69,27l47 -46c-30,-28 -69,-45 -116,-45 -96,0 -174,78 -174,174 0,96 78,173 174,173 100,0 167,-70 167,-169 0,-12 -2,-21 -3,-29l-164 0z"/>
+    <path class="fil2" d="M348 422l164 0c2,8 3,17 3,27l0 -2c0,-11 -2,-20 -3,-28l-164 0 0 3zm0 -149c46,0 84,17 114,44l2 -2c-30,-28 -69,-45 -116,-45 -96,0 -174,78 -174,174l0 1c1,-95 79,-172 174,-172zm0 283c69,0 94,-49 98,-75l0 0c-6,27 -32,72 -98,72 -59,0 -107,-48 -107,-108 0,1 -1,1 -1,2 0,60 49,109 108,109l0 0z"/>
+    <path class="fil3" d="M348 334c-59,0 -108,49 -108,110 0,0 1,1 1,1 0,-60 48,-108 107,-108 34,0 56,15 69,27l47 -45c0,-1 -1,-1 -1,-2l-46 44c-13,-12 -35,-27 -69,-27l0 0zm0 144l0 3 98 0c0,-1 0,-2 0,-3l-98 0z"/>
+    <path class="fil3" d="M348 617c-95,0 -173,-77 -174,-172l0 2c0,96 78,173 174,173 100,0 167,-70 167,-169l0 -2c-1,98 -67,168 -167,168z"/>
+    <g>
+     <path class="fil1" d="M720 419l-50 0 0 -50 -49 0 0 50 -50 0 0 49 50 0 0 50 49 0 0 -50 50 0 0 -49zm0 0l0 0 0 0z"/>
+    </g>
+    <path class="fil2" d="M670 419l50 0 0 3 -50 0 0 -3zm-49 -50l49 0 0 3 -49 0 0 -3 0 0zm-50 50l50 0 0 3 -50 0 0 -3z"/>
+    <path class="fil3" d="M571 468l50 0 0 3 -50 0 0 -3zm99 0l50 0 0 3 -50 0 0 -3zm-49 50l49 0 0 3 -49 0 0 -3z"/>
+   </g>
+  </g>
+ </g>
+</svg>

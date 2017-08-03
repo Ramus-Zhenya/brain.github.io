@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.30208in" height="1.30208in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1302 1302"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#612C75}
+    .fil2 {fill:#FEFEFE;fill-rule:nonzero}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <rect x="-5" y="-32" width="1344" height="1344"/>
+    </clipPath>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_629438544">
+   <g style="clip-path:url(#id0)">
+    <image x="-5" y="-32" width="1344" height="1344" xlink:href="xl_Images\xl_ImgID1.png"/>
+   </g>
+   <polygon class="fil0" points="62,184 751,58 757,1232 62,1087 "/>
+   <path class="fil0" d="M731 176l486 0c35,0 63,28 63,62l0 801c0,35 -28,63 -63,63l-486 0 0 -926z"/>
+   <rect class="fil1" x="754" y="230" width="466" height="823"/>
+   <polygon class="fil2" points="228,819 331,634 237,449 326,443 385,588 447,432 539,426 433,630 540,835 445,833 380,673 318,823 "/>
+   <rect class="fil0" x="741" y="310" width="167.797" height="90.5129"/>
+   <rect class="fil0" x="973" y="310" width="189.257" height="90.5129"/>
+   <rect class="fil0" x="741" y="449" width="167.797" height="90.5129"/>
+   <rect class="fil0" x="973" y="449" width="189.257" height="90.5129"/>
+   <rect class="fil0" x="741" y="600" width="167.797" height="90.5129"/>
+   <rect class="fil0" x="973" y="600" width="189.257" height="90.5129"/>
+   <rect class="fil0" x="741" y="743" width="167.797" height="90.5129"/>
+   <rect class="fil0" x="973" y="743" width="189.257" height="90.5129"/>
+   <rect class="fil0" x="741" y="882" width="167.797" height="90.5129"/>
+   <rect class="fil0" x="973" y="882" width="189.257" height="90.5129"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.752079in" height="0.752079in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 752 752"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:#E31E24;stroke-width:39.3701}
+    .str2 {stroke:#612C75;stroke-width:3}
+    .str1 {stroke:#78398F;stroke-width:3}
+    .str0 {stroke:#612C75;stroke-width:43.1969}
+    .fil4 {fill:none}
+    .fil2 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#E31E24}
+    .fil3 {fill:#612C75}
+    .fil0 {fill:#FFED00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1102153808">
+   <g>
+    <circle class="fil0 str0" cx="380" cy="373" r="329"/>
+    <g>
+     <polygon class="fil1" points="354,49 401,49 401,110 354,110 "/>
+     <polygon id="1" class="fil2 str1" points="354,49 401,49 401,110 354,110 "/>
+    </g>
+    <g>
+     <polygon class="fil1" points="354,635 401,635 401,696 354,696 "/>
+     <polygon id="1" class="fil2 str1" points="354,635 401,635 401,696 354,696 "/>
+    </g>
+    <g>
+     <polygon class="fil1" points="53,395 53,348 114,348 114,395 "/>
+     <polygon id="1" class="fil2 str1" points="53,395 53,348 114,348 114,395 "/>
+    </g>
+    <g>
+     <polygon class="fil1" points="644,395 644,348 705,348 705,395 "/>
+     <polygon id="1" class="fil2 str1" points="644,395 644,348 705,348 705,395 "/>
+    </g>
+    <g>
+     <path class="fil3" d="M83 332c22,0 40,17 40,39 0,22 -18,40 -40,40 -22,0 -39,-18 -39,-40 0,-22 17,-39 39,-39z"/>
+     <path id="1" class="fil2 str2" d="M83 332c22,0 40,17 40,39 0,22 -18,40 -40,40 -22,0 -39,-18 -39,-40 0,-22 17,-39 39,-39z"/>
+    </g>
+    <g>
+     <path class="fil3" d="M675 332c21,0 39,17 39,39 0,22 -18,40 -39,40 -22,0 -40,-18 -40,-40 0,-22 18,-39 40,-39z"/>
+     <path id="1" class="fil2 str2" d="M675 332c21,0 39,17 39,39 0,22 -18,40 -39,40 -22,0 -40,-18 -40,-40 0,-22 18,-39 40,-39z"/>
+    </g>
+    <g>
+     <path class="fil3" d="M380 625c22,0 40,18 40,39 0,22 -18,40 -40,40 -22,0 -39,-18 -39,-40 0,-21 17,-39 39,-39z"/>
+     <path id="1" class="fil2 str2" d="M380 625c22,0 40,18 40,39 0,22 -18,40 -40,40 -22,0 -39,-18 -39,-40 0,-21 17,-39 39,-39z"/>
+    </g>
+    <g>
+     <path class="fil3" d="M380 44c22,0 40,18 40,40 0,22 -18,40 -40,40 -22,0 -39,-18 -39,-40 0,-22 17,-40 39,-40z"/>
+     <path id="1" class="fil2 str2" d="M380 44c22,0 40,18 40,40 0,22 -18,40 -40,40 -22,0 -39,-18 -39,-40 0,-22 17,-40 39,-40z"/>
+    </g>
+    <path class="fil3" d="M408 334c14,8 24,24 24,42 0,4 -1,7 -1,11l73 82c7,7 7,18 1,25l0 0c-7,7 -18,7 -25,0l-79 -71c-6,2 -13,3 -19,3 -28,0 -50,-22 -50,-50 0,-19 11,-37 28,-45l4 -117c0,-10 8,-18 18,-18l0 0c9,0 16,8 17,18l9 120z"/>
+   </g>
+   <line class="fil4 str3" x1="676" y1="87" x2="81" y2= "661" />
+  </g>
+ </g>
+</svg>

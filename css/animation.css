@@ -1,0 +1,139 @@
+
+/*--------logo brackets Effect---------*/
+.brackets{
+	overflow: hidden;
+/*	vertical-align: top;*/
+    -webkit-perspective: 600px;
+	-moz-perspective: 600px;
+	-ms-perspective: 600px;
+	perspective: 600px;
+	-webkit-perspective-origin: 50% 50%;
+	-moz-perspective-origin: 50% 50%;
+	-ms-perspective-origin: 50% 50%;
+	perspective-origin: 50% 50%;
+}
+.brackets span{
+	display: block;
+	position: relative;
+	-webkit-transition: all .1s ease;
+	-moz-transition: all .1s ease;
+	-ms-transition: all .1s ease;
+	transition: all .3s ease;
+	-webkit-transform-origin: 50% 0%;
+	-moz-transform-origin: 50% 0%;
+	-ms-transform-origin: 50% 0%;
+	transform-origin: 50% 0%;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+.brackets:hover span{
+	-webkit-transform: translate3d(0px, -5px, -70px) rotateX(90deg);
+	-moz-transform: translate3d(0px, -5px, -70px) rotateX(90deg);
+	-ms-transform: translate3d(0px, -5px, -70px) rotateX(90deg);
+	transform: translate3d(0px, -5px, -70px) rotateX(90deg);
+	transition: all .3s;
+}
+.brackets span:before{
+	font-family: 'impact';
+	font-size: 3em;
+	content: attr(data-text);
+	-webkit-font-smoothing: antialiased;
+	color: #612c75;
+/*		background: #fff;*/
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	padding-top: .2em;
+	-webkit-transform-origin: 50% 0%;
+	-moz-transform-origin: 50% 0%;
+	-ms-transform-origin: 50% 0%;
+	transform-origin: 50% 0%;
+			-webkit-transform: translate3d(0px, 105%, 0px) rotateX(-90deg);
+			-moz-transform: translate3d(0px, 105%, 0px) rotateX(-90deg);
+			-ms-transform: translate3d(0px, 105%, 0px) rotateX(-90deg);
+	        transform: translate3d(0px, 105%, 0px) rotateX(-90deg);
+}
+
+
+
+section > .fp-tableCell h1
+{
+	transform: translateX(100%);
+	opacity: 0;
+	-webkit-transition: opacity .8s ease-in-out,
+	-webkit-transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+	transition: opacity .8s ease-in-out,
+	-webkit-transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+	transition: transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .8s ease-in-out;
+	transition: transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .8s ease-in-out,
+	-webkit-transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+}
+section.active > .fp-tableCell h1
+{
+	-webkit-transform: translateX(0);
+	        transform: translateX(0);
+	opacity: 1;
+}
+section.active > .fp-tableCell h1
+{
+	transition-delay: .22s;
+}
+
+
+.page-4 .page-4-1> .fp-tableCell h1
+{
+	transform: translateX(100%);
+	opacity: 0;
+	-webkit-transition: opacity .8s ease-in-out,
+	-webkit-transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+	transition: opacity .8s ease-in-out,
+	-webkit-transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+	transition: transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .8s ease-in-out;
+	transition: transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .8s ease-in-out,
+	-webkit-transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+}
+.page-4.active .page-4-1.active> .fp-tableCell h1
+{
+	-webkit-transform: translateX(0);
+	        transform: translateX(0);
+	opacity: 1;
+}
+.page-4.active .page-4-1.active> .fp-tableCell h1
+{
+	transition-delay: .22s;
+}
+.page-4 .page-4-2> .fp-tableCell h1
+{
+	transform: translateX(100%);
+	opacity: 0;
+	-webkit-transition: opacity .8s ease-in-out,
+	-webkit-transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+	transition: opacity .8s ease-in-out,
+	-webkit-transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+	transition: transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .8s ease-in-out;
+	transition: transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .8s ease-in-out,
+	-webkit-transform .8s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+}
+.page-4.active .page-4-2.active> .fp-tableCell h1
+{
+	-webkit-transform: translateX(0);
+	        transform: translateX(0);
+	opacity: 1;
+}
+.page-4.active .page-4-2.active> .fp-tableCell h1
+{
+	transition-delay: .22s;
+}
+
