@@ -37,7 +37,8 @@
 }
 .brackets span:before{
 	font-family: 'impact';
-	font-size: 3em;
+	font-size: 2.5vw;
+	text-align: center;
 	content: attr(data-text);
 	-webkit-font-smoothing: antialiased;
 	color: #612c75;
@@ -62,10 +63,10 @@
 .main-nav li a{
 	overflow: hidden;
 /*	vertical-align: top;*/
-    -webkit-perspective: 600px;
-	-moz-perspective: 600px;
-	-ms-perspective: 600px;
-	perspective: 600px;
+    -webkit-perspective: 100px;
+	-moz-perspective: 100px;
+	-ms-perspective: 100px;
+	perspective: 100px;
 	-webkit-perspective-origin: 50% 50%;
 	-moz-perspective-origin: 50% 50%;
 	-ms-perspective-origin: 50% 50%;
@@ -96,10 +97,10 @@
 }
 .main-nav li a span:before{
 	font-family: 'impact';
-/*	font-size: 1em;*/
+	font-size: 1em;
 	content: attr(data-text);
 	-webkit-font-smoothing: antialiased;
-/*	color: #612c75;*/
+	color: #612c75;
 /*		background: #fff;*/
 	display: block;
 	position: absolute;
@@ -108,7 +109,7 @@
 	left: 0px;
 	right: 0px;
 	top: 0px;
-/*	padding-top: .2em;*/
+	padding-top: .3em;
 	-webkit-transform-origin: 50% 0%;
 	-moz-transform-origin: 50% 0%;
 	-ms-transform-origin: 50% 0%;
