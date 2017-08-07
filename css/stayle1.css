@@ -262,7 +262,7 @@ h1{
 
 
 .page-3-1{
-	background: rgba(33,255,159,.3);
+	background: rgba(0,0,255,.3);
 }
 .wrap-3{
 	display: flex;
@@ -329,7 +329,7 @@ align-self: flex-start
      width: 100px;
 }
 .page-3-2{
-     background: rgba(25,115,167,.3);
+     background: rgba(33,255,159,.3);
 }
 .wrap-3-2{
 	display: flex;
@@ -377,12 +377,16 @@ align-self: flex-start
     color: #612c75;
 }
 
+.wrap-4{
+	background:rgba(25,115,167,.3) ;
+}
+
 .wrap-5{
 	height: 100%;
 	display: flex;
 	flex-flow: column;
 	justify-content: space-between;
-	background:rgba(229,96,127,.3) ;
+	background:rgba(229, 9, 127,.3) ;
 }
 .wrap-5 .wrap-h3{
 	display: flex;
@@ -397,9 +401,12 @@ align-self: flex-start
 	margin: 0;
     color: #ffed00;
 	text-align: center;
-	height: 50px;
+	height: 5vh;
 /*	font-size: 18px;*/
 	padding: 3px 0 0;
+}
+.wrap-5 .wrap-h3 h3 span img{
+	width: 7vh;
 }
 .wrap-5 .prais{
 	background: #ffed00;
@@ -433,7 +440,7 @@ align-self: flex-start
 	background: #612c75;
 	color: #ffed00;
 	text-align: center;
-	padding: 15px 0;
+	padding: 1vh 0;
 	margin: 0;
 }
 
@@ -444,7 +451,7 @@ align-self: flex-start
 	display: flex;
 	flex-flow: column;
 	justify-content: space-around;
-	background: rgba(0,0,255,.3);
+	background: rgba(255,0,102,.3);
 }
 .wrap-6-inner{
 	display: flex;
@@ -577,7 +584,7 @@ align-self: flex-start
 }
 
 .wrap-8{
-	background: rgba(0,255,9,.3);
+	background: rgba(0,255,0,.3);
 	width: 100%;
 	height: 100%;
 	display: flex;
